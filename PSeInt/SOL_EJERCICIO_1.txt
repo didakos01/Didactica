@@ -1,8 +1,8 @@
-//JUAN FULANO PÉREZ DEL MONTE
+//JUAN FULANO PÃ‰REZ DEL MONTE
 Algoritmo ejercicio1
-	Escribir "¿Hizo tarea? 1-Sí, 0-No"
+	Escribir "Â¿Hizo tarea? 1-SÃ­, 0-No"
 	Leer tarea_completa
-	Escribir "¿Ordenó la habitación? 1-Sí, 0-No"
+	Escribir "Â¿OrdenÃ³ la habitaciÃ³n? 1-SÃ­, 0-No"
 	Leer orden_hab
 	Si tarea_completa == 1 y orden_hab == 1 Entonces
 		Escribir "Tiene permiso para salir"

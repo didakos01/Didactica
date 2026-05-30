@@ -1,0 +1,11 @@
+//AUTOR: PROF. DIEGO VÁSQUEZ (27052026)
+Algoritmo conectivo_y
+	Escribir "Ingrese un número: "
+	Leer num
+	//num MOD 2 == 0 verifica si el número es par
+	Si num MOD 2 == 0 y num > 10 Entonces
+		Escribir "El número cumple la condición"
+	SiNo
+		Escribir "El número NO cumple la condición"
+	FinSi
+FinAlgoritmo
