@@ -4,7 +4,7 @@ Algoritmo condicionales_anidadas
 	Leer edad
 	Escribir "Ingrese su promedio: "
 	Leer promedio
-	Escribir "¿Hace deporte? 1=Sí, 0=No"
+	Escribir "Â¿Hace deporte? 1=SÃ­, 0=No"
 	Leer hace_deporte
 	
 	Si edad>=15 y edad<=20 Entonces

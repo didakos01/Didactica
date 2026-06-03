@@ -1,0 +1,13 @@
+Algoritmo ti2_a2
+	Escribir "Ingrese un número: "
+	Leer num
+	Si num>0 Entonces
+		Si num es par Entonces
+			Escribir "El número es par"
+		SiNo
+			Escribir "El número es impar"
+		FinSi
+	SiNo
+		Escribir "No es posible clasificarlo"
+	FinSi
+FinAlgoritmo

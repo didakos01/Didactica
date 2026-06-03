@@ -1,0 +1,17 @@
+Algoritmo ti2_a1
+	Escribir "Ingrese su edad: "
+	Leer edad_persona
+	
+	Si edad_persona>=18 Entonces
+		Escribir "¿Tiene carnet? 1=Sí, 0=No"
+		Leer carnet
+		Si carnet==1 Entonces
+			Escribir "Puede hacer préstamos"
+		SiNo
+			Escribir "Debe registrarse"
+		FinSi
+	SiNo
+		Escribir "Es menor de edad. No puede prestar"
+	FinSi
+	
+FinAlgoritmo
